@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../coding"
+		},
+		{
+			"path": "../ecom"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ecom"
+	}
+}
